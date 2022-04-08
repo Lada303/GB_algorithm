@@ -1,4 +1,4 @@
-package Lada303.lesson1;
+package Lada303.lesson2;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package Lada303.lesson1;
+package Lada303.lesson2;
 
 public enum Manufacturer {
 

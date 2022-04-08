@@ -1,9 +1,9 @@
-package Lada303.lesson1;
+package Lada303.lesson2;
 
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Lesson1 {
+public class Lesson2 {
 
     private static final int COUNT_ELEMENTS = 10000;
     private static final int START_PRICE = 500;
